@@ -1,1 +1,3 @@
-# obc-modmanager
+# OBC - Mod Manager
+
+OBC Mod Manager will move there as a seperate software soon...
